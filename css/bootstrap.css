@@ -171,7 +171,7 @@ textarea {
 
 @media print {
   * {
-    color: #000 !important;
+    color: #7fff00 !important;
     text-shadow: none !important;
     background: transparent !important;
     box-shadow: none !important;
@@ -226,8 +226,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #333333;
-  background-color: #ffffff;
+  color: #00FF33;
+  background-color: #00ff00;
 }
 
 a {
